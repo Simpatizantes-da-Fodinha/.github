@@ -6,3 +6,7 @@ Bem-vindo à organização **Simpatizantes da Fodinha**! Aqui, o objetivo de nos
 
 - Node
 - React
+
+## Screenshots e vídeos
+
+Em breve...
